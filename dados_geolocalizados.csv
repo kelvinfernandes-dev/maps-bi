@@ -1,0 +1,17 @@
+ID Pedido,Cliente,Cidade,Estado,CEP,Valor Venda,Localizacao_Completa,Latitude,Longitude,Status_Geocod
+101,Loja A,São Paulo,SP,01001-000,150000,"São Paulo, SP, Brasil",-23.5506507,-46.6333824,Sucesso
+102,Loja B,Rio de Janeiro,RJ,20040-002,230050,"Rio de Janeiro, RJ, Brasil",-30.8188205,-53.9049582,Sucesso
+103,Loja C,Curitiba,PR,80010-000,85000,"Curitiba, PR, Brasil",-25.4295963,-49.2712724,Sucesso
+104,Loja D,Belo Horizonte,MG,30110-002,120000,"Belo Horizonte, MG, Brasil",-30.8188205,-53.9049582,Sucesso
+105,Loja E,Salvador,BA,40010-000,310000,"Salvador, BA, Brasil",-12.9822499,-38.4812772,Sucesso
+106,Loja F,Porto Alegre,RS,90010-001,95020,"Porto Alegre, RS, Brasil",-30.0274662,-51.2288728,Sucesso
+107,Loja G,Brasília,DF,70040-010,500000,"Brasília, DF, Brasil",-15.7939869,-47.8828,Sucesso
+108,Loja H,Manaus,AM,69005-000,180000,"Manaus, AM, Brasil",-3.1316333,-59.9825041,Sucesso
+109,Loja I,Recife,PE,50010-000,220000,"Recife, PE, Brasil",-8.0584933,-34.8848193,Sucesso
+110,Loja J,Fortaleza,CE,60010-000,135000,"Fortaleza, CE, Brasil",-3.7304512,-38.5217989,Sucesso
+111,Loja K,Campo Mourão,PR,87314-999,110000,"Campo Mourão, PR, Brasil",-24.046329,-52.37802,Sucesso
+112,Loja L,Campo Mourão,PR,87308-445,98000,"Campo Mourão, PR, Brasil",-24.0269746,-52.3661939,Sucesso
+113,Loja M,São Paulo,SP,05118-100,12000,"São Paulo, SP, Brasil",-23.5173843,-46.744498,Sucesso
+114,Loja N,Cajamar,SP,07789-100,1400000,"Cajamar, SP, Brasil",-23.3561111,-46.8769444,Sucesso
+115,Loja O,São Paulo,SP,04794-000,25350,"São Paulo, SP, Brasil",-23.5506507,-46.6333824,Sucesso
+116,Loja P,São Paulo,SP,04565-001,300000,"São Paulo, SP, Brasil",-30.811577,-53.9006734,Sucesso
