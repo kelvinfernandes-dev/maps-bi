@@ -1,5 +1,22 @@
-# Salva com padrão brasileiro: separador de campo ; e decimal ,
-df.to_csv("dados_geolocalizados.csv", index=False, sep=';', decimal=',')
+# Maps BI - Análise Geoespacial de Dados
 
-# No final do seu script, tente salvar direto em Excel para manter a precisão:
-df.to_excel("dados_geolocalizados_final.xlsx", index=False)
+Um projeto de Business Intelligence (BI) para visualização e análise de dados geoespaciales de estabelecimentos comerciais. Desenvolvido com Python, Pandas e a Api, Nominatim feito para suprir a falta de precisão do mapa do Power BI, onde atráves do Cep o script traz para você longitude e latitude..
+
+##  Funcionalidades
+
+- **Visualização em Mapa Interativo**: Plotagem de estabelecimentos em um mapa usando coordenadas geográficas
+- **Exportação de Dados**: Capacidade de exportar resultados filtrados para CSV ou .xlsx
+
+##  Tecnologias Utilizadas
+
+- **Python 3.8+**: Linguagem principal do projeto
+- **Pandas**: Manipulação e análise de dados
+- **Folium/Geopandas**: Manipulação e visualização de dados geoespaciais
+- **Dotenv**: Gerenciamento de variáveis de ambiente
+- **Nominatim**: Api de geolocalização
+
+##  Pré-requisitos
+
+- Python 3.8 ou superior
+- Pip (gerenciador de pacotes do Python)
+- Git (para clonar o repositório)
